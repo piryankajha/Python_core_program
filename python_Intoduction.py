@@ -1,4 +1,8 @@
+
 # Python_Introduction_and_Setup.py
+Author: Piryanka Jha
+Date:   03-08-2025
+
 '''-----------   Topic: Python Introduction and Setup----------------------'''
 
 # ---------------------------
