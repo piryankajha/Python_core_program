@@ -89,3 +89,18 @@ for i in range(3):
     print(i)
 else:
     print("Loop finished successfully")
+
+#-------------------------------------LOOP_QUESTIONS---------------------------
+
+'''print 1 to 20 Sequence counting by for and while loop'''
+
+for i in range(1,21):
+    print(i)          
+#------------------
+x=1
+while x<21:
+    print(x)
+    x+=1
+    
+
+
