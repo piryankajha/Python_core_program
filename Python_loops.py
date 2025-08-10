@@ -101,6 +101,15 @@ x=1
 while x<21:
     print(x)
     x+=1
-    
+
+'''Print "INDIA " 5 times by for and while loop '''
+x=1
+while x<=5:
+    print("INDIA")
+    x+=1
+#----------------------
+for i in range(1,6):
+    print("INDIA")
+
 
 
