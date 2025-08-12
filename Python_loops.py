@@ -111,5 +111,16 @@ while x<=5:
 for i in range(1,6):
     print("INDIA")
 
+'''print 20 to 30 Sequence counting by for and while loop'''
+for i in range(20,31):
+    print(i)
+
+#--------
+x=20
+while x<=30:
+    print(x)
+    x+=1
+
+
 
 
