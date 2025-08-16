@@ -121,6 +121,18 @@ while x<=30:
     print(x)
     x+=1
 
+'''backword counting 20 to 1 by while and for loop'''
+x=20
+while x>=1:
+    print(x,end="|")
+    x-=1
+
+#-----------
+for i in range(20,0,-1):
+    print(i)
+
+
+
 
 
 
