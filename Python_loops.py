@@ -131,6 +131,15 @@ while x>=1:
 for i in range(20,0,-1):
     print(i)
 
+# print all even number 1 to 20 by for and while.
+x=1
+while x<=20:
+    if x%2==0:
+        print(x) 
+    x+=1
+#--------------------
+
+
 
 
 
