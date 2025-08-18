@@ -148,6 +148,10 @@ while x<=20:
     if x%2!=0:
         print(x) 
     x+=1
+#-----------
+for i in range(1,21):
+    if i%2!=0:
+        print("Odd no : ",i)
 
 
 
