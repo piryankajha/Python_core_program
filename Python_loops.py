@@ -12,7 +12,7 @@ Author: Piryanka Jha
 # 1. for loop
 # 2. while loop
 
-# ---------------------------
+# --------------------------
 # for Loop
 # ---------------------------
 # Used to iterate over a sequence (like list, string, range, etc.)
@@ -158,6 +158,7 @@ for i in range(1,21):
 for i in range (10,41):
     if i%3==0 and i%2==0:
         print(i)
+
 
 
 
