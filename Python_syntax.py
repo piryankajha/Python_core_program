@@ -3,7 +3,7 @@
 
 #------------------------------------------------------------------------
 # Python Syntax Basics
-# -----------------------------
+# --------------------------
 # Python uses indentation (whitespace) to define blocks of code.
 # Each block of code (like loops, functions, conditionals)
 #  must be consistently indented.
@@ -58,4 +58,5 @@ multi-line
  comment,
 
   '''
+
 
