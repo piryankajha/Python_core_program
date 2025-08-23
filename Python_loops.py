@@ -90,6 +90,9 @@ for i in range(3):
 else:
     print("Loop finished successfully")
 
+
+#__________________________________________________________________________________________________________________________
+
 #-------------------------------------LOOP_QUESTIONS---------------------------
 
 '''print 1 to 20 Sequence counting by for and while loop'''
@@ -168,6 +171,7 @@ for i in range (10,26):
     if i%2==0:
         c+=1
 print(c)
+
 
 
 
