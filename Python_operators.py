@@ -27,7 +27,7 @@ b = 3
 print("Addition:", a + b)         # 13
 print("Subtraction:", a - b)      # 7
 print("Multiplication:", a * b)   # 30
-print("Division:", a / b)         # 3.333...
+print("Division:", a / b)         # 3.333..
 print("Floor Division:", a // b)  # 3
 print("Modulus:", a % b)          # 1
 print("Exponent:", a ** b)        # 1000
@@ -104,6 +104,7 @@ print("a is c:", a is not c)   # True
 x = [1, 2, 3, 4, 5]
 print("3 in nums:", 3 in x)
 print("6 not in nums:", 6 not in x)
+
 
 
 
