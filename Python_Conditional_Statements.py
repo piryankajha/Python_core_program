@@ -83,4 +83,28 @@ elif income>700000:
 else:
      print("no tax")   
 
+#----------------------------------------
+
+""" Write a program to assign grades based on marks: 
+                                        o 90+ = A 
+                                        o 80-89 = B 
+                                        o 70-79 = C 
+                                        o Below 70 = F """
+x=float(input("enter marks: "))
+if x>90:
+    print("A",x)
+elif x>80:
+    print("B",x)
+elif x>70:
+    print("C",x)
+else:
+    print("F",x )
+
+
+
+
+
+
+
+
 
