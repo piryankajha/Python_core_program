@@ -92,13 +92,14 @@ else:
                                         o Below 70 = F """
 x=float(input("enter marks: "))
 if x>90:
-    print("A",x)
+    print("Grade A",x)
 elif x>80:
-    print("B",x)
+    print("Grade B",x)
 elif x>70:
-    print("C",x)
+    print(" Grade C",x)
 else:
-    print("F",x )
+    print("Grade F",x )
+
 
 
 
