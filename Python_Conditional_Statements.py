@@ -83,7 +83,7 @@ elif income>700000:
 else:
      print("no tax")   
 
-#----------------------------------------
+#---------------------------------------------------------------
 
 """ Write a program to assign grades based on marks: 
                                         o 90+ = A 
@@ -99,6 +99,12 @@ elif x>70:
     print(" Grade C",x)
 else:
     print("Grade F",x )
+#-------------------------------------------------------------
+'''Write a program to categorize temperature: 
+                                          <0 = Freezing 
+                                          0-10 = Cold 
+                                         11-25 = Moderate 
+                                           25 = Hot '''
 
 
 
