@@ -186,6 +186,7 @@ while a<= num:
     a=a+1
 print("factorial is : ",fact)
 
+''' Write a Python program to print all even number from 40 to 30 . ''' 
 
 
 
