@@ -188,6 +188,10 @@ print("factorial is : ",fact)
 
 ''' Write a Python program to print all even number from 40 to 30 . ''' 
 
+for i in range(40,30,-1):
+    if i%2==0:
+        
+     print(i)
 
 
 
