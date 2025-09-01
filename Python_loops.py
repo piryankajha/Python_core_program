@@ -197,6 +197,10 @@ for i in range(40,30,-1):
 ''' Write a Python program using a for loop to print all odd numbers 
    from 40 to 21 in descending order.'''
 
+for i in range(40,20,-1):
+   if i%2!=0:
+      print(i)
+
 
 
 
