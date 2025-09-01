@@ -185,13 +185,18 @@ while a<= num:
     fact=fact*a
     a=a+1
 print("factorial is : ",fact)
-
+#----------------------------------
 ''' Write a Python program to print all even number from 40 to 30 . ''' 
 
 for i in range(40,30,-1):
     if i%2==0:
         
      print(i)
+#------------------------------
+
+''' Write a Python program using a for loop to print all odd numbers 
+   from 40 to 21 in descending order.'''
+
 
 
 
