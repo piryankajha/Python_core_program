@@ -209,6 +209,13 @@ for i in range(40,20,-1):
    if i%2==0:
       print(i)
 
+""" Print numbers from 5 to 25 using a for loop. 
+ If the number is divisible by 7, stop the loop."""
+
+
+
+
+
 
 
 
