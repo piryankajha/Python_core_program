@@ -115,10 +115,14 @@ elif x<25 :
 else:
     print("hot")
     
-
+'''Take an integer input.
+       Print "low" if it's between 1 and 20
+       Print "mid" if it's between 21 and 30
+       Else, print "high"'''
 
 
           
+
 
 
 
