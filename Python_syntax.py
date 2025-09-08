@@ -1,14 +1,14 @@
 # Topic: Basic Syntax and Print Statement
 # Author: Piryanka Jha.
 
-#------------------------------------------------------------------------
+#--------------------------------------------------------------------
 # Python Syntax Basics
 # --------------------------
 # Python uses indentation (whitespace) to define blocks of code.
 # Each block of code (like loops, functions, conditionals)
 #  must be consistently indented.
 
-#-----------------------------------------------------------------------
+#-------------------------------------------------------------------
 
 # Valid indentation example: #✅
 if True:
@@ -58,5 +58,6 @@ multi-line
  comment,
 
   '''
+
 
 
