@@ -217,6 +217,18 @@ for i in range(5,25):
         break
     print(i)
 
+#-----------------------------------------
+
+
+
+
+n=int(input("enter number"))
+sum=0
+a=1
+while a<=n:
+    sum=sum+a
+    a=a+1
+print("sum of your natural numbers  : ", sum)
 
 
 
