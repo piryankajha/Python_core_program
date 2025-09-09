@@ -219,8 +219,7 @@ for i in range(5,25):
 
 #-----------------------------------------
 
-
-
+# Write a program to calculate the sum of first n natural numbers using while.
 
 n=int(input("enter number"))
 sum=0
@@ -229,6 +228,7 @@ while a<=n:
     sum=sum+a
     a=a+1
 print("sum of your natural numbers  : ", sum)
+
 
 
 
