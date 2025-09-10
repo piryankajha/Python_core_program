@@ -229,14 +229,15 @@ while a<=n:
     a=a+1
 print("sum of your natural numbers  : ", sum)
 
-
-#
+#-----------------------------------------------------------------------
+# 
 
 
 x=int(input("enter no:"))
 for i in range(1,11):
 
      print(x,"X",i,"=",x*i)
+
 
 
 
