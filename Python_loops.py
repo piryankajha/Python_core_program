@@ -230,6 +230,16 @@ while a<=n:
 print("sum of your natural numbers  : ", sum)
 
 
+#
+
+
+x=int(input("enter no:"))
+for i in range(1,11):
+
+     print(x,"X",i,"=",x*i)
+
+
+
 
 
 
