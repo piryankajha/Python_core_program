@@ -258,6 +258,9 @@ for i in range(1,15):
 
 
 
+''' Use a for loop to print all odd numbers from 30 to 10 (in reverse).
+Use continue to skip even numbers.'''
+
 
 
 
