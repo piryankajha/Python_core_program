@@ -269,6 +269,15 @@ for i in range(30,10,-1):
 
 
 
+for i in range(100,24,-1):
+    if i>=40 and i<=60:
+        continue
+    print(i)
+
+
+
+
+
 
 
 
