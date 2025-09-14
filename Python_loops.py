@@ -268,11 +268,14 @@ for i in range(30,10,-1):
 
 
 
+'''Print numbers from 100 to 25 (in reverse order),
+ but skip numbers between 40 and 60'''
 
 for i in range(100,24,-1):
     if i>=40 and i<=60:
         continue
     print(i)
+
 
 
 
