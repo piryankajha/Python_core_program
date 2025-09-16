@@ -257,7 +257,7 @@ for i in range(1,15):
     print(i)
 
 
-
+#-----------------------------------------------------------------------
 ''' Use a for loop to print all odd numbers from 30 to 10 (in reverse).
 Use continue to skip even numbers.'''
 
@@ -267,7 +267,7 @@ for i in range(30,10,-1):
     print(i)
 
 
-
+#-----------------------------------------------------
 '''Print numbers from 100 to 25 (in reverse order),
  but skip numbers between 40 and 60'''
 
@@ -275,6 +275,7 @@ for i in range(100,24,-1):
     if i>=40 and i<=60:
         continue
     print(i)
+
 
 
 
