@@ -279,6 +279,14 @@ for i in range(100,24,-1):
 
 
 
+for i in range(1,21):
+     x=i**2
+     print(x)
+
+
+
+
+
 
 
 
