@@ -285,11 +285,15 @@ for i in range(1,21):
      x=i**2
      print(x)
 
+#-------------------------------------------------------------------------
+'''Write a Python program that takes an integer input from the user and 
+       prints the squares of all numbers from 1 to that number'''
 
 s=int(input(" Enter no :- "))
 for i in range(1,s+1):
      x=i**2
      print(x)
+
 
 
 
