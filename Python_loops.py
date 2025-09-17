@@ -286,6 +286,13 @@ for i in range(1,21):
      print(x)
 
 
+s=int(input(" Enter no :- "))
+for i in range(1,s+1):
+     x=i**2
+     print(x)
+
+
+
 
 
 
