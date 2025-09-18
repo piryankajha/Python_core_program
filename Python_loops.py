@@ -294,6 +294,9 @@ for i in range(1,s+1):
      x=i**2
      print(x)
 
+#-------------------------------------
+'''cube of numbers from 1 to 20'''
+
 
 
 
