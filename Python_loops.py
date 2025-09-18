@@ -296,7 +296,9 @@ for i in range(1,s+1):
 
 #-------------------------------------
 '''cube of numbers from 1 to 20'''
-
+for i in range(1,21):
+     x=i**3
+     print(x)
 
 
 
