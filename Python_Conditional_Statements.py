@@ -134,6 +134,15 @@ else:
 #--------------------------------------------------------------
 '''Write a program to find the greatest among three numbers.'''
 
+x=float(input("enter no: "))
+y=float(input("enter no: "))
+z=float(input("enter no: "))
+if x>y and x>z:
+    print(x)
+elif y>x and y>z:
+    print(y)
+else:
+    print(z)  
 
 
 
