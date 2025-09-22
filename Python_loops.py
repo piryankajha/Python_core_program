@@ -28,7 +28,7 @@ for fruit in fruits:
 
 # ---------------------------
 # while Loop
-# ---------------------------
+# --------------------------
 # Executes as long as the condition is true
 
 print("\nUsing while loop:")
@@ -308,6 +308,7 @@ s=int(input(" Enter here :- "))
 for i in range(1,s+1):
      x=i**3
      print(x)
+
 
 
 
