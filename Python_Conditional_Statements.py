@@ -131,7 +131,9 @@ elif x>=21 and x<=30:
 else:
     print("high")    
 
-          
+#--------------------------------------------------------------
+'''Write a program to find the greatest among three numbers.'''
+
 
 
 
