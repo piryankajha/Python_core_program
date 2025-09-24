@@ -151,11 +151,12 @@ for i in range(0,21):
     if i==5 or i==10 or i==15: 
       continue
     print(i)
-
+#------------------------------------------
 for i in range(1,21):
     if i>=8 and i<=12:
        continue
     print(i)
+
 
 
 
