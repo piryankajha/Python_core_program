@@ -1,7 +1,8 @@
 # Python_Strings_Manipulation.py
 """
 Topic: Strings in Python & String Manipulation
-Author: Amisha Nakoti
+Author: Priyanka Jha
+
 """
 
 # ---------------------------
@@ -41,6 +42,7 @@ a = "Hello"
 b = "World"
 print(a + " " + b)   # Concatenation
 print(a * 3)         # Repetition
+
 
 
 
