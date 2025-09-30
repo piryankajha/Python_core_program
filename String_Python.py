@@ -69,5 +69,18 @@ print("Is alpha?", alpha.isalpha())
 print("Is alphanumeric?", alnum.isalnum())
 
 
+# ---------------------------
+# 7. String Formatting
+# ---------------------------
+name = "Alice"
+age = 25
+
+# Using f-string
+print(f"My name is {name} and I am {age} years old.")
+
+# Using format()
+print("My name is {} and I am {} years old.".format(name, age))
+
+
 
 
