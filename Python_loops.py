@@ -14,7 +14,7 @@ Author: Piryanka Jha
 
 # --------------------------
 # for Loop
-# ---------------------------
+# --------------------------
 # Used to iterate over a sequence (like list, string, range, etc.)
 
 print("Using for loop with range:")
@@ -309,6 +309,7 @@ s=int(input(" Enter here :- "))
 for i in range(1,s+1):
      x=i**3
      print(x)
+
 
 
 
