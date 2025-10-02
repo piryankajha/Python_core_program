@@ -71,7 +71,7 @@ print("Is alphanumeric?", alnum.isalnum())
 
 # ---------------------------
 # 7. String Formatting
-# ---------------------------
+# --------------------------
 name = "Alice"
 age = 25
 
@@ -90,6 +90,7 @@ print("Split:", words)
 
 joined = "-".join(words)  # Joins list back into string
 print("Joined:", joined)
+
 
 
 
