@@ -92,6 +92,12 @@ joined = "-".join(words)  # Joins list back into string
 print("Joined:", joined)
 
 
+# ---------------------------
+# 9. String Iteration
+# ---------------------------
+for char in "Hello":
+    print(char)
+  
 
 
 
