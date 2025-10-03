@@ -97,7 +97,13 @@ print("Joined:", joined)
 # ---------------------------
 for char in "Hello":
     print(char)
-  
+
+# ---------------------------
+# 10. String Reversal
+# ---------------------------
+s = "Python"
+print("Reversed:", s[::-1])
+
 
 
 
