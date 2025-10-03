@@ -20,7 +20,7 @@ print(string2)
 print(string3)
 
 
-# ---------------------------
+# --------------------------
 # 2. Accessing Characters in a String
 # ---------------------------
 word = "Python"
@@ -103,6 +103,7 @@ for char in "Hello":
 # ---------------------------
 s = "Python"
 print("Reversed:", s[::-1])
+
 
 
 
