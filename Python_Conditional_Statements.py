@@ -167,6 +167,9 @@ for i in range(1, 21):
     print(i)
 
 
+x=int(input("Enter no-:  "))
+y=x%10
+print("this is the last digit:-",y)
 
 
 
