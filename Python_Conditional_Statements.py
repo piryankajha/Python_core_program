@@ -166,10 +166,12 @@ for i in range(1, 21):
         continue
     print(i)
 
+''' WAP take input from user and print last digit of that number.'''
 
 x=int(input("Enter no-:  "))
 y=x%10
 print("this is the last digit:-",y)
+
 
 
 
