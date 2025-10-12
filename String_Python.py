@@ -118,9 +118,13 @@ print("Is 'python' a palindrome?", is_palindrome("python"))
 
 #_______________________________________________________________________________________________________________________
 
+
+''' count g in  x '''
+
 x="programming"
 y=x.count("g")
 print(y)
+
 
 
 
