@@ -128,6 +128,13 @@ print(y)
 
 
 
+y=len(x)-x.count(" ")
+print(y)
+
+
+
+
+
 
 
 
