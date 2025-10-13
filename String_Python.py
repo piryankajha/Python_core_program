@@ -127,9 +127,12 @@ print(y)
 
 
 
+'''4.  show the lenth of the text without space '''
 
+x="python is a programming language"
 y=len(x)-x.count(" ")
 print(y)
+
 
 
 
