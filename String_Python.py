@@ -132,6 +132,9 @@ print(y)
 x="python is a programming language"
 y=len(x)-x.count(" ")
 print(y)
+#------------------------OR
+
+
 
 
 
