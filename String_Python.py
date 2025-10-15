@@ -138,6 +138,13 @@ print(len(y))
 
 
 
+x=input(enter ")
+if len(x)>=5:
+    print(x.upper())
+else:
+    print(x.lower())
+
+
 
 
 
