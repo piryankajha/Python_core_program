@@ -136,13 +136,14 @@ print(y)
 y=x.replace(" ","")
 print(len(y))
 
-
+#--------------------------------------------------------------------------------------------------------
 '''  Write a Python program to convert a string to uppercase if its length > 5 else to lowercase    "'''
 x=input(enter ")
 if len(x)>=5:
     print(x.upper())
 else:
     print(x.lower())
+#---------------------------------------------------------
 
 ''' WAP by user input ,if name startwith "p","r","a" or "m" 
      then show "yes" else show "No"   '''
@@ -151,6 +152,7 @@ if x[0] in ("pram"):
     print("yes")
 else:
     print("no")
+
 
 
 
