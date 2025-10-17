@@ -156,6 +156,15 @@ else:
 
 
 
+if x.startswith("a") and x.endswith("a"):
+    print("yes")
+else:
+    print("no") 
+
+
+
+
+
 
 
 
