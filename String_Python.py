@@ -212,17 +212,18 @@ for i in x:
     if i!="a":
         print(i)
 #              ---------------OR
-x="Ramayana"
+x="Mahabharat"
 for i in x:
     if i[0]!="a":
         print(i)
 #            -----------------OR
-x="Ramayana"
+x="Mahabharat"
 for i in x:
     if i=="a":
         continue
     else:
       print(i)
+
 
 
 
