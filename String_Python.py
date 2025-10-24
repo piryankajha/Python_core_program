@@ -217,6 +217,12 @@ for i in x:
     if i[0]!="a":
         print(i)
 #            -----------------OR
+x="Ramayana"
+for i in x:
+    if i=="a":
+        continue
+    else:
+      print(i)
 
 
 
