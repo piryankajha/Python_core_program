@@ -225,6 +225,10 @@ for i in x:
       print(i)
 
 #------------------------------------------------
+x="ka1i3ml5e34sh69"
+for i in x:
+    if i.isalpha():
+        print(i,end="")
 
 
 
