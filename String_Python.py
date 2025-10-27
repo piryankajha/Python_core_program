@@ -249,11 +249,12 @@ for i in x:
         z+=i
 print(y)
 print(z)
-#---                     OR
+#---                                     OR
 x="pr1i3n5@*%$c34e44"
 for i in x:
     if i.isalnum():
         print(i,end="")
+
 
 
 
