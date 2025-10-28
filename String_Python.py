@@ -255,6 +255,13 @@ for i in x:
     if i.isalnum():
         print(i,end="")
 
+#-----------------------------------------
+'''extratct all special charactor'''
+x="fhdh$%%^GHJj$#$3442"
+for i in x:
+    if i.isalnum():
+        continue
+    print(i.replace(" ",""),end="")
 
 
 
