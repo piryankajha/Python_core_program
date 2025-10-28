@@ -265,6 +265,13 @@ for i in x:
 
 
 
+#----------------------------------------------------------
+'''Print all elements which is written in capital letter'''
+
+x="asDFgH5jdhWEEREK345REiS"
+for i in x:
+    if i.isupper():
+        print(i)
 
 
 
