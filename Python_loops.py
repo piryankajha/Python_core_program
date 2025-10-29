@@ -6,7 +6,7 @@ Author: Piryanka Jha
 
 # ---------------------------
 # What are Loops?
-# ---------------------------
+# --------------------------
 # Loops are used to execute a block of code repeatedly.
 # Python supports two main types of loops:
 # 1. for loop
@@ -309,6 +309,7 @@ s=int(input(" Enter here :- "))
 for i in range(1,s+1):
      x=i**3
      print(x)
+
 
 
 
