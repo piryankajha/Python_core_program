@@ -273,6 +273,13 @@ for i in x:
     if i.isupper():
         print(i)
 
+#-----------------------------------------------------
+'''Print all elements which is written in small letter'''
+x="gfhhgGFTHGF%&^^^3456"
+for i in x:
+    if i.islower():
+        print(i)
+
 
 
 
