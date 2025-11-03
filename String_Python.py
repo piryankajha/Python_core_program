@@ -291,6 +291,17 @@ for i in x:
 
 print("\nTotal mo of charactor",c)
 
+txt=0
+num=0
+x="App 234 le#@e 67234"
+for i in x:
+    if i.isalpha():       
+        txt+=1
+    elif i.isnumeric():
+        num+=1
+print("\nTotal charactor",txt)
+print("\nTotal numbrers",num)
+
 
 
 
