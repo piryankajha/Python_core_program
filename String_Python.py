@@ -20,7 +20,7 @@ print(string2)
 print(string3)
 
 
-# --------------------------
+# -----------------------------
 # 2. Accessing Characters in a String
 # ---------------------------
 word = "Python"
@@ -332,6 +332,7 @@ print("Total numbers : ",num)
 print("Total text : ",txt)
 print("Total  : ",space)
 print("Total special char : ",sp)
+
 
 
 
