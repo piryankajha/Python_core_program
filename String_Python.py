@@ -333,6 +333,15 @@ print("Total text : ",txt)
 print("Total  : ",space)
 print("Total special char : ",sp)
 
+#------------------------------------------------
+'''WAP a program to sum all numerical data'''
+x="python12345"
+s=0
+for i in x:
+    if i.isdigit():
+        s+=int(i)
+        # s=s+int(i)
+print(s)
 
 
 
