@@ -354,8 +354,10 @@ for i in str:
         count=count+1
 print(" num of vowels :",count)
 
+#-----------------------------------------------
 
  
+
 
 
 
