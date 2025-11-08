@@ -4,7 +4,7 @@ Topic: Strings in Python & String Manipulation
 Author: Priyanka Jha
 
 """
-
+ 
 # -------------------------
 # 1. What is a String?
 # -------------------------
@@ -362,6 +362,7 @@ if  x.isalnum() :
     print("okk")
 else:
     print("special")
+
 
 
 
