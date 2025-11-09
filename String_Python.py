@@ -363,6 +363,32 @@ if  x.isalnum() :
 else:
     print("special")
 
+#--------------------------------------------------
+x="himachal Pradesh"
+#mach
+print(x[2:6])
+#desh
+print(x[-4:])
+#Hima
+print(x[0:4])
+#imac
+print(x[1:5])
+#rade
+print(x[-6:-2])
+
+#-----------------------------------------------
+x="Arunachal"
+print(x[-4:-2:])
+#runa
+print(x[-8:-4:]) 
+#Arun
+print(x[-9:-5])
+
+# Extract last 3 alphabet and show in capital latter
+print(x[-3:].upper())
+
+#--------------------------------------------------------
+
 
 
 
