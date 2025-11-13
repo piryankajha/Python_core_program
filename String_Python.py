@@ -398,6 +398,21 @@ print(y+a+z)
 
 
 
+#-------------------------------------------
+'''find value with index number '''
+
+x=("sun","mon","Tue","wed","Thu","fri","sat") 
+#    0     1     2     3    4     5      6 
+for i in x:
+    a=x.index(i)
+    print(i," : Index No",a)
+
+#-----------------------------------
+'''find value with reverse index number '''
+
+for i in x:
+    a=x.index(i)-len(x)
+    print(i," : Index No",a)
 
 
 
