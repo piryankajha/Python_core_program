@@ -7,7 +7,7 @@ Author: Priyanka Jha
  
 # ------------------------- 
 # 1. What is a String? 
-# -------------------------
+# --------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
 
 string1 = 'Hello'
@@ -413,6 +413,7 @@ for i in x:
 for i in x:
     a=x.index(i)-len(x)
     print(i," : Index No",a)
+
 
 
 
