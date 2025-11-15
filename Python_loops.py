@@ -3,7 +3,7 @@
 Topic: Loops in Python
 Author: Piryanka Jha
 """
-
+ 
 # ---------------------------
 # What are Loops?
 # --------------------------
@@ -309,6 +309,7 @@ s=int(input(" Enter here :- "))
 for i in range(1,s+1):
      x=i**3
      print(x)
+
 
 
 
