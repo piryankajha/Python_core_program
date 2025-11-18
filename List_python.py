@@ -94,3 +94,6 @@ print("Length:", len(numbers))
 print("Max:", max(numbers))
 print("Min:", min(numbers))
 print("Squares:", squares)
+
+
+
