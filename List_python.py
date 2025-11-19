@@ -1,4 +1,4 @@
-'''_____________________________ LIST __________________________________________________________
+'''_____________________________ LIST __________________________________________________________ 
 list is part of sequence data type which is a collection of repitative elements
 it is used to store multiple data in single variable and its always written in square bracket
 _________________________________________________________________________________________________
@@ -111,6 +111,7 @@ print(x[-1:-3:-1])
 
 # [90,60,30]
 print(x[-1::-3])
+
 
 
 
