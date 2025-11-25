@@ -12,7 +12,7 @@ ________________________________________________________________________________
 7-list support Multiple type of data  
                           
                         -----------------------------------------
-                        #how to create a blank list  
+                        #how to create a blank list   
                           x=[]
                           print(type(x))     #class list
                           print(len(x))      # 0
@@ -111,6 +111,7 @@ print(x[-1:-3:-1])
 
 # [90,60,30]
 print(x[-1::-3])
+
 
 
 
