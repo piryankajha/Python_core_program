@@ -126,6 +126,30 @@ print(x[0][5][-1::-1])
 #[14,23]
 print(x[0][0:6:4]) 
 
+#___________________________________
+
+'''Count total "A" ,"a"  '''
+x=["a","b","c","A","a","C"]
+c=0
+for i in x:
+    if i.lower()=="a":
+        c+=1
+print(c)    
+#------------------------OR
+c=0
+for i in x:
+    if i=="a" or i=="A":
+        c+=1
+print(c)
+#-----------------------OR
+c=0
+for i in x:
+    if i in "Aa":
+        c+=1
+print(c)
+#-------------------------OR
+print(x.count("a")+x.count("A"))
+
 
 
 
