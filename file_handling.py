@@ -28,58 +28,61 @@ a=(Append Mode):- open a file for writing ,appending new content
 
 '''
 '''----------------------------------------------------------------------'''
-# path=r"C:\Users\Shahid ali\Desktop\python_Notes.txt"
-# data=open(path,"r")
-# for i in data:
-#     print(i)
+path=r"C:\Users\Piryanka\Desktop\python_Notes.txt"
+data=open(path,"r")
+for i in data:
+    print(i)
 '''------------------------------------------------------------------'''
 '''print only four lines from the files'''
 
-# import time 
-# path=r"C:\Users\Shahid ali\Desktop\python_Notes.txt"
-# data=open(path,"r")
-# c=0
-# for i in data:
-#     if c==4:
-#         break
-#     else:
-#          time.sleep(1)
-#          print(i)
-#     c+=1
+import time 
+path=r"C:\Users\piryanka\Desktop\python_Notes.txt"
+
+data=open(path,"r")
+c=0
+for i in data:
+    if c==4:
+        break
+    else:
+         time.sleep(1)
+         print(i)
+    c+=1
 
 """with out loop"""  #Python is a high-level,----EXpected output
-# path=r"C:\Users\Shahid ali\Desktop\python_Notes.txt"
-# x=open(path,"r")
-# y=x.read()
-# y=y.split()
-# z=" ".join(y[0:4])
-# print(z)
-# x.close()
+path=r"C:\Users\Piryanka\Desktop\python_Notes.txt"
+x=open(path,"r")
+y=x.read()
+y=y.split()
+z=" ".join(y[0:4])
+print(z)
+x.close()
 
 '''store table in file ---------------WRITE MODE----'''
-# path="C:/Users/Shahid ali/Desktop/python_Notes.txt"
-# file=open(path,"w")
-# x=10
-# for i in range (1,11):   
-#     file.write(f"{x}X{i}={x*i}\n")             
-# file.close()
-# print("Done")
+path="C:/Users/piryanka/Desktop/python_Notes.txt"
+
+file=open(path,"w")
+x=10
+for i in range (1,11):   
+    file.write(f"{x}X{i}={x*i}\n")             
+file.close()
+print("Done")
 #-----------------------------------------------------------
 '''-----------------------APPEND MODE------------------------'''
-# path="C:/Users/Shahid ali/Desktop/python_Notes.txt"
-# file=open(path,"a")
-# file.write("\n==========================================\n")
-# x=10
-# for i in range (1,11):    
-#     file.write(f"{x}X{i}={x*i}\n")              
-# file.close()
-# print("Done")
+path="C:/Users/piryanka/Desktop/python_Notes.txt"
+file=open(path,"a")
+file.write("\n==========================================\n")
+x=10
+for i in range (1,11):    
+    file.write(f"{x}X{i}={x*i}\n")              
+file.close()
+print("Done")
 
 #---------------------------------------------------------
 '''----------File deleting-----------------'''
 
-# import os
-# path="C:/Users/Shahid ali/Desktop/python_Notes.txt"
-# os.remove(path)
-# print("Done! \n deleted")
+import os
+path="C:/Users/Piryanka/Desktop/python_Notes.txt"
+os.remove(path)
+print("Done! \n deleted")
+
 
