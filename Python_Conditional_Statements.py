@@ -13,7 +13,7 @@ Author : Piryanka Jha
 # ---------------------------
 # Basic if Statement
 # ---------------------------
-age = 23
+age = 25
 if age >= 18:
     print("" eligible to vote.")
 
@@ -173,6 +173,7 @@ for i in range(1, 21):
 x=int(input("Enter no-:  "))
 y=x%10
 print("this is the last digit:-",y)
+
 
 
 
