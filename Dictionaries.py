@@ -32,6 +32,17 @@ D={"Brand":"TATA",
 
 print(D)
 print(type(D))    #dict
-
 print(len(D))     #4
+#-----------------------------------------------------------
+'''extract the name of students whose rollni is 3'''
+st={1:"nman",
+    2:"ashis",
+    3:"mayank",
+    4:"rajiv"}
+x=st.get(3)  #extract the value base of key
+print(x)
+#---------
+x=st[3]       #with out formula
+print(x)
+
 
