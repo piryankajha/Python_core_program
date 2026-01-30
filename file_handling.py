@@ -24,7 +24,7 @@ a=(Append Mode):- open a file for writing ,appending new content
                  to end of an existing file.
                  if the file Doesn't exist,a new is created.
  
-
+ 
 
 '''
 '''----------------------------------------------------------------------'''
@@ -84,6 +84,7 @@ import os
 path="C:/Users/Piryanka/Desktop/python_Notes.txt"
 os.remove(path)
 print("Done! \n deleted")
+
 
 
 
