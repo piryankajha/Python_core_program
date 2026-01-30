@@ -109,3 +109,23 @@ def factorial(n):
         return n * factorial(n - 1)
 
 print("Factorial of 5:", factorial(5))
+
+#------------------------------------------------------
+'''Create a function to Greet Good Morning'''
+
+def greet():
+    print("Good morning!")
+
+greet()
+
+'''Create a Function to show the Data-Type and Length both '''
+
+def dl(x):
+    print("_"*50)
+    print("length :- ",len(x))
+    print("_"*50)
+    print("Data Type :-",type(x))
+
+a="fghhjjhghd"
+dl(a)
+
