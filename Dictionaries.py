@@ -46,4 +46,22 @@ x=st[3]       #with out formula
 print(x)
 
 
+'''Create A Dictionary with the Help of user input'''
+
+x=int(input("  :- "))
+z=dict()
+for i in range(x):
+       a=input("enter key__")
+       b=input("enter value : ")
+       z[a]=b
+print(z)
+#-------------------------------------------
+length= int(input("enter Length of dict :- "))
+dic=dict()
+for i in range(length):
+    key=input("Enter Key :- ")
+    val=input("Enter Values :- ")
+    dic[key]=val
+print(dic)
+
 
