@@ -8,7 +8,7 @@ ________________________________________________________________________________
 3-list are used to store multiple values in a single variable.
 4-list are ordered.
 5-list allowed duplicate value.
-6-list are indexed.
+6-list are indexed..
 7-list support Multiple type of data  
                           
                         ----------------------------------------
@@ -261,6 +261,7 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
+
 
 
 
