@@ -3,7 +3,8 @@
 '''DICTIONARY - Dictionary is a collection of non repitative elements it is always written with the pair of  
                 keys and values .
                and it also store multiple elements in dict. 
-               written in curly brackets.
+               written in curly brackets. 
+               
 
 1->  written in curly brackets with part of keys and values.  
 2->  dict are ordered .
@@ -63,6 +64,7 @@ for i in range(length):
     val=input("Enter Values :- ")
     dic[key]=val
 print(dic)
+
 
 
 
