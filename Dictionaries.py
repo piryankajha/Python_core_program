@@ -8,7 +8,7 @@
 
 1->  written in curly brackets with part of keys and values.  
 2->  dict are ordered .
-3->  dict are mutable or changable .
+3->  dict are mutable or changable . 
 4->  dict are not indexed .   
 5->  dict not allow duplicate keys .
 6-.  it also support multiple typpe of Data.  
@@ -64,6 +64,7 @@ for i in range(length):
     val=input("Enter Values :- ")
     dic[key]=val
 print(dic)
+
 
 
 
