@@ -130,6 +130,12 @@ a="fghhjjhghd"
 dl(a)
 
 
+'''Create a function to Show Area of circle '''
+def cir(r):  
+    r=22/7*r**2
+    print("Area of circle : ",r)
+radiaus=float(input("enter radius:_ "))
+cir(radiaus)
 
 
 
