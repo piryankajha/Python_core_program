@@ -4,7 +4,7 @@ it is used to store multiple data in single variable and its always written in s
 _____________________________________________________________________________________________  
         
 1-list are written in square bracket.
-2-list are mutable or changable. 
+2-list are mutable or changable.  .
 3-list are used to store multiple values in a single variable. 
 4-list are ordered.
 5-list allowed duplicate value.
