@@ -1,6 +1,6 @@
-# ===========================
+# =======================
 # TUPLES
-# ===========================
+# =======================
 
 
 '''TUPLE  -Tuple is a collection of repitative elements which is used to store the multipule
