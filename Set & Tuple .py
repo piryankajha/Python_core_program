@@ -7,7 +7,7 @@
            Values in single Variable.
            Tuple is a part of sequence data type.
 
-         1️⃣. Tuple written in round bracket ().
+         1️⃣. Tuple written in round bracket ().   .
          2️⃣. Tuple are Ordered.
          3️⃣. Tuple are immutable or unchangable.
          4️⃣. Tuple also allow duplicate value.
