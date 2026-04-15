@@ -1,7 +1,7 @@
 # Topic: Basic Syntax and Print Statement
 # Author: Piryanka Jha.
 
-#--------------------------------------------------------------------
+#------------------------------------------------------------------
 # Python Syntax Basics
 # --------------------------
 # Python uses indentation (whitespace) to define blocks of code.
