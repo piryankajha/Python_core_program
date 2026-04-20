@@ -12,7 +12,7 @@
 # def function_name(parameters):
 #     """docstring (optional)"""
 #     # block of code
-#     return value (optional)                                  '''
+#     return value (optional)                              '''
 
 
 # ---------------------------
