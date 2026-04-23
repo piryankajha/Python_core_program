@@ -4,9 +4,9 @@ Topic: Loops in Python
 Author: Piryanka Jha
 """
  
-# --------------------------
+# -------------------------
 # What are Loops?  
-# --------------------------
+# -------------------------
 # Loops are used to execute a block of code repeatedly. 
 # Python supports two main types of loops:
 # 1. for loop
