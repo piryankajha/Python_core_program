@@ -9,7 +9,7 @@ Author: Piryanka Jha
 # ---------------------
 # Loops are used to execute a block of code repeatedly. 
 # Python supports two main types of loops:
-# 1. for loop
+# 1. for loop 
 # 2. while loop
 
 # --------------------------
