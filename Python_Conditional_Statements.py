@@ -5,7 +5,7 @@ Author : Piryanka Jha
 """
   
 # -------------------------------
-# What are Conditional Statements?
+# What are Conditional Statements?.
 # ------------------------------
 # Conditional statements are used to perform different actions based on different conditions.
 # Python uses if, elif, and else keywords for decision making.
