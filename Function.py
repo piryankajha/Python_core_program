@@ -2,7 +2,7 @@
 
  
 ''' 
-# --------------------
+# ------------------
 # What is a Function?  
 # ------------------_
 # A function is a block of reusable code that performs a specific task.
