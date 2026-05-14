@@ -1,6 +1,4 @@
 # Python_Functions.py 
-
- 
 '''      ..
 # ------------------
 # What is a Function?
