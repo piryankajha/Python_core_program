@@ -1,6 +1,6 @@
 # Python_Functions.py 
 '''      ..
-# ------------------
+# -----------------
 # What is a Function?
 # ------------------
 # A function is a block of reusable code that performs a specific task.
