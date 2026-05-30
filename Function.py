@@ -8,7 +8,7 @@
   
 # Syntax:
 # def function_name(parameters):
-#     """docstring (optional)"""
+#     """docstring (optional)""" 
 #     # block of code
 #     return value (optional)                       '''
 
